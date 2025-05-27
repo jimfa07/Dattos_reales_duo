@@ -215,7 +215,7 @@ CLIENTES = [
     "D. Vicente", "D. Jorge", "D. Quinde", "Sra. Isabel", "Sra. Alba",
     "Sra Yolanda", "Sra Laura Mercado", "D. Segundo", "Legumbrero",
     "Peruana Posorja", "Sra. Sofia", "Sra. Jessica", "Sra Alado de Jessica",
-    "Comedor Gordo Posorja", "Sra. Celeste", "Caro negro", "Tienda Isabel Posorja",
+    "Comedor Gordo Posorja", "Patitas Posorja", "Sra. Celeste", "Caro negro", "Tienda Isabel Posorja",
     "Carnicero Posorja", "Moreira","Senel", "Chuzos Narcisa", "Eddy", "D. Jonny", "D. Sra Madelyn", "Lobo Mercado"
 ]
 
